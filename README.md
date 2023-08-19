@@ -38,3 +38,5 @@ In essence, this endeavor pioneers a new frontier in tourism, allowing individua
 <img src="snapcode.png" alt="Description of the image" width="200"/>
 </p>
 
+#### You can find a brief demonstration of the application in this YouTube video link
+https://youtube.com/shorts/mIIWD0ThYXg?feature=share
