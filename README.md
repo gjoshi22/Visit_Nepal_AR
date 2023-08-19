@@ -34,5 +34,7 @@ The AR application was developed using Snapchat's Lens Studio:
 In essence, this endeavor pioneers a new frontier in tourism, allowing individuals to embark on journeys to captivating destinations without ever leaving their homes. Dive into the future of travel and experience the wonders of Nepal like never before!
 
 # This application can be experienced on Snapchat by scanning the following snapcode
-![Description of Image](snapcode.png)
+
+<img src="snapcode.png" alt="Description of the image" width="200"/>
+
 
