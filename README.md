@@ -2,7 +2,7 @@
 
 ## Overview
 
-Augmented reality (AR) is a transformative technology that superimposes computer*generated content onto the physical world. Unlike virtual reality, AR doesn't replace our environment; it enhances it. This fusion of digital elements and real*world scenarios has unlocked innovative applications across various sectors, from education and marketing to entertainment.
+Augmented reality (AR) is a transformative technology that superimposes computer generated content onto the physical world. Unlike virtual reality, AR doesn't replace our environment; it enhances it. This fusion of digital elements and real*world scenarios has unlocked innovative applications across various sectors, from education and marketing to entertainment.
 
 This project aims to harness the potential of AR within the tourism industry, offering users a unique remote travel experience.
 
